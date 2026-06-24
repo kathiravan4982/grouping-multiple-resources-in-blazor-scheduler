@@ -2,7 +2,7 @@
 
 ## Repository Description
 
-A quick start Blazor project that demonstrates how to group multiple resources in the Blazor Scheduler component. This project provides a comprehensive guide to managing and organizing resources with different hierarchical structures, resource grouping under dates, and appointment mapping with resource data sources. Perfect for developers looking to implement advanced scheduling features with Syncfusion Blazor components.
+A quick start Blazor project that demonstrates how to group multiple resources in the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component. This project provides a comprehensive guide to managing and organizing resources with different hierarchical structures, resource grouping under dates, and appointment mapping with resource data sources. Perfect for developers looking to implement advanced scheduling features with Syncfusion Blazor components.
 
 ## Project Overview
 
