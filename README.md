@@ -1,12 +1,6 @@
 # Grouping Multiple Resources in Blazor Scheduler
 
-## Repository Description
-
-A quick start Blazor project that demonstrates how to group multiple resources in the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component. This project provides a comprehensive guide to managing and organizing resources with different hierarchical structures, resource grouping under dates, and appointment mapping with resource data sources. Perfect for developers looking to implement advanced scheduling features with Syncfusion Blazor components.
-
-## Project Overview
-
-This repository showcases best practices for implementing resource grouping functionality in Blazor applications. Resource grouping is a powerful feature that allows you to organize and manage multiple resources efficiently within a scheduling interface. Learn how to structure your data, define resource hierarchies, and create intuitive user experiences for complex scheduling scenarios.
+This quick start Blazor project demonstrates how to group and manage multiple resources in the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component. It covers defining resource data, organizing hierarchical groupings, associating appointments with resources, and applying various resource configurations. The sample serves as a practical guide for implementing efficient resource management and building intuitive, scalable scheduling solutions in Blazor applications.
 
 ## Features
 
@@ -20,14 +14,13 @@ This repository showcases best practices for implementing resource grouping func
 
 * Visual Studio 2022
 * .NET 6.0 or later
-* Syncfusion Blazor components
 
 ## How to run the project
 
-* Checkout this project to a location in your disk
-* Open the solution file using Visual Studio 2022
-* Restore the NuGet packages by rebuilding the solution
-* Run the project
+1. Checkout this project to your local machine
+2. Open the solution file using Visual Studio 2022
+3. Build the solution to restore the required NuGet packages
+4. Press `F5` to start the application
 
 ## Documentation
 
