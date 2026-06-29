@@ -1,18 +1,43 @@
 # Grouping Multiple Resources in Blazor Scheduler
 
-A quick start Blazor project that helps you to learn how to group multiple resources in the Blazor Scheduler. In this video, You will learn to define the group data source and map it with appointments. You will also learn how to group resources under dates and how to group the resources hierarchically in the Blazor Scheduler. 
+This quick start Blazor project demonstrates how to group and manage multiple resources in the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component. It covers defining resource data, organizing hierarchical groupings, associating appointments with resources, and applying various resource configurations. The sample serves as a practical guide for implementing efficient resource management and building intuitive, scalable scheduling solutions in Blazor applications.
 
-**Examples**: https://blazor.syncfusion.com/demos/scheduler/hierarchical-grouping?theme=bootstrap4 
+## Features
 
-**Documentation**: https://blazor.syncfusion.com/documentation/scheduler/resources/#resource-grouping
+* **Multiple Resource Grouping**: Learn how to group multiple resources in the Blazor Scheduler
+* **Hierarchical Resource Organization**: Implement hierarchical grouping patterns for complex resource structures
+* **Date-based Grouping**: Group resources under specific dates for better organization
+* **Appointment Mapping**: Map appointments with resource data sources for seamless integration
+* **Interactive Examples**: Explore practical examples demonstrating real-world scenarios
 
 ## Prerequisites
 
 * Visual Studio 2022
+* .NET 6.0 or later
 
 ## How to run the project
 
-* Checkout this project to a location in your disk.
-* Open the solution file using the Visual Studio 2022.
-* Restore the NuGet packages by rebuilding the solution.
-* Run the project.
+1. Checkout this project to your local machine
+2. Open the solution file using Visual Studio 2022
+3. Build the solution to restore the required NuGet packages
+4. Press `F5` to start the application
+
+## Documentation
+
+For detailed information about the Blazor Scheduler and its capabilities, refer to the official Syncfusion documentation:
+
+* **Blazor Introduction**: https://blazor.syncfusion.com/documentation/introduction
+* **Schedule Component**: https://blazor.syncfusion.com/documentation/schedule/getting-started
+* **Resource Grouping Guide**: https://blazor.syncfusion.com/documentation/scheduler/resources/#resource-grouping
+
+## Examples
+
+Explore the Blazor Scheduler in action with interactive examples and demonstrations:
+
+* **Hierarchical Grouping Demo**: https://blazor.syncfusion.com/demos/scheduler/hierarchical-grouping?theme=bootstrap4
+
+## Additional Resources
+
+* View comprehensive examples and live demonstrations on the Syncfusion Blazor demos website
+* Access API documentation for advanced customization and implementation details
+* Explore community forums for support and best practices
