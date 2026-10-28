@@ -13,7 +13,7 @@ This quick start Blazor project demonstrates how to group and manage multiple re
 ## Prerequisites
 
 * Visual Studio 2022
-* .NET 6.0 or later
+* .NET 10.0 or later
 
 ## How to run the project
 
